@@ -4,8 +4,8 @@ Presenting my internship's final project: Retail Chain Sales Analysis using Pyth
 ⭐𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐢𝐬 𝐩𝐫𝐨𝐣𝐞𝐜𝐭:
 The Sales Data Analysis and Reporting project for a Retail Chain utilized Python, SQL, and Excel. Python's statistical calculations and data manipulation, and data analysis using python's libraries combined with SQL's database querying, generated valuable insights. The dynamic Excel dashboard presented key sales metrics and trends, empowering informed business decisions for inventory optimization, targeted marketing, and growth opportunities. This project demonstrated the power of data analysis in real-world business scenarios.
 
-Thank You!!
-Abhishek Ghanshyam Mankar
+Thank You!!                                                                                                                                  
+Abhishek Ghanshyam Mankar                                                                                                                    
 Abhishekmankar119@gmail.com
 
 
